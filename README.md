@@ -11,4 +11,4 @@ Abraham Nezahualcoyotl Aldaco Gastélum, Ph.D.
 TC1030.700 - Programación orientada a objetos
 
 ## Fecha
-19 de mayo de 2021
+20 de mayo de 2021
